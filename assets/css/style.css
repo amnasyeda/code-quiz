@@ -4,10 +4,7 @@ html {
 
 body {
   /* System fonts */
-  font-family: -apple-system, BlinkMacSystemFont,
-    “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”,
-    “Fira Sans”, “Droid Sans”, “Helvetica Neue”,
-    sans-serif;
+  font-family: Helvetica, sans-serif;
   color: #202020;
   
   box-sizing: border-box;
@@ -140,7 +137,7 @@ main {
 }
 
 #correct {
- color:  #88115b;
+ color:  #53ac37;
 }
 
 #wrong {
