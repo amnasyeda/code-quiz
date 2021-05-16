@@ -3,6 +3,8 @@
 Description:
 
 A simple multiple choice quiz composed of five questions relating to JavaScript which was created using Javascript, along with HTML and CSS. The user has 75 seconds to complete the entire quiz and ten seconds of time are deducted for every wrong answer. When an answer is selected, the user will be told if the answer they submitted was correct or wrong. 
+
+
 Purpose: To create a timed quiz in which the user may save their results to their local storage after completion. All of the saved scores can be viewed on the page which is storing highscores. 
 
 Deployed Git Hub URL: 
@@ -17,7 +19,10 @@ Webpage Interactive Video Screenshot on Standard Internet Browser:
 
 
 
-https://user-images.githubusercontent.com/81194686/118414899-3e71b400-b675-11eb-9d1d-13b9c7841544.mov
+
+https://user-images.githubusercontent.com/81194686/118415052-1a62a280-b676-11eb-8820-574773b645a6.mov
+
+
 
 
 
