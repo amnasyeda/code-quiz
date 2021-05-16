@@ -13,10 +13,17 @@ If link does not work, please click here: https://amnasyeda.github.io/code-quiz/
 
 
 
-Webpage Screenshot on standard internet browser:
+Webpage Interactive Video Screenshot on Standard Internet Browser:
 
 
 ![alt text] (highscores.png)
+
+
+Screenshot of Highscores Page: 
+
+
+
+
 
 References:
 - [w3schools](https://www.w3schools.com/html/html_scripts.asp)
