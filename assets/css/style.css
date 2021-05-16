@@ -1,0 +1,236 @@
+html {
+  height: 100%;
+}
+
+body {
+  /* Main font */
+  font-family: Helvetica, sans-serif;
+  color: black;
+  
+  box-sizing: border-box;
+  margin: 0; 
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/* Headings */
+h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+/* Boxes */
+.fas {
+  margin-right: 10px;
+}
+
+/* Clicking buttons */
+a {
+  color: #b85edbe8;
+  text-decoration: none;
+
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover, 
+a:focus, 
+a:active {
+  color:#b85edbe8;
+}
+
+button,
+.back-button {
+  display: inline-block;
+  padding: 5px 15px;
+  margin: 0.5em 0.5em 0 0.5em;
+
+  border-radius: 4px;
+  border-style: none;
+
+  background-color: rgb(82, 17, 136);
+
+  color: white;
+  cursor: pointer;
+  font-size: 1em;
+  text-align:center;
+
+  transition: background-color 0.2s ease-in-out;
+}
+
+.back-button:hover, 
+.back-button:focus, 
+.back-button:active,
+button:hover, 
+button:focus, 
+button:active{
+  background-color:#b85edbe8;
+  color: white;
+}
+
+.back-button {
+  margin-left: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Nav */
+nav {
+  padding: 15px;
+  border-bottom: 1px solid #CECECE;
+}
+
+/* Sections */
+main {
+  display: flex;
+  flex-direction: column;
+
+  width: 80%;
+  margin: auto;
+  height: 75%;
+  box-sizing: border-box;
+  padding: 20px 0;
+}
+
+/* Start button */
+#start {
+  text-align: center;
+}
+
+/* Questions */
+#question {
+  font-size: 1.5em;
+}
+
+#timer, 
+.choice-status {
+  text-align: center;
+}
+
+#timer {
+  border-bottom: 1px solid #CECECE;
+  padding-bottom: 15px;
+
+  font-size: 1.35em;
+  font-weight: bold;
+}
+
+#time-remaining{
+  color:#b85edbe8;
+}
+
+#choices {
+  list-style: none;
+  padding-left: 0;
+}
+
+#choices button {
+  margin-left: 0;
+}
+
+.choice-status {
+  font-size: 1.35em;
+  font-weight: bold;
+}
+
+#correct {
+ color:green;
+}
+
+#wrong {
+  color:red;
+}
+
+/* Gray line */
+#quiz-questions, 
+#end {
+  border-bottom: 3px solid #CECECE;
+  padding-bottom: 15px;
+}
+
+/* End */
+#score-text {
+  font-size: 1.2em;
+}
+
+#score {
+  font-weight: bold;
+  color:#b85edbe8;
+}
+
+/* Form */
+#submit-score {
+  margin-bottom: 10px;
+}
+
+#submit-score label {
+  display: block;
+}
+
+#initials {
+  padding: 3px;
+  font-size: 1em;
+
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.error {
+  border: 1.5px solid red;
+}
+
+#error-message {
+  color: red;
+  margin-top: 5px;
+}
+
+/* Highscores */
+table {
+  border-spacing: 0 0.5em;
+}
+
+tr:nth-child(even) {
+  background-color: #EBEBEB;
+}
+
+td, th {
+  padding: 10px;
+}
+
+th {
+  border-bottom: 1px solid #aca1a1;
+}
+
+td {
+  text-align: center;
+}
+
+th:first-child,
+td:first-child {
+  text-align: left;
+}
+
+th:last-child,
+td:last-child  {
+  text-align: right;
+}
+
+#highscore-buttons {
+  margin-bottom: 50px;
+}
+
+/* Flex */
+@media only screen and (min-width: 992px) {
+  main {
+    width: 60%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  main {
+    width: 40%;
+  }
+}
