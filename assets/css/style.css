@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  /* System fonts */
+  /* Main font */
   font-family: Helvetica, sans-serif;
   color: black;
   
@@ -95,14 +95,14 @@ main {
   padding: 20px 0;
 }
 
-/* Start */
+/* Start button */
 #start {
   text-align: center;
 }
 
 /* Questions */
 #question {
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 #timer, 
@@ -147,7 +147,7 @@ main {
 /* Gray line */
 #quiz-questions, 
 #end {
-  border-bottom: 5px solid #CECECE;
+  border-bottom: 3px solid #CECECE;
   padding-bottom: 15px;
 }
 
