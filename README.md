@@ -2,7 +2,9 @@
 
 Description:
 
-A simple multiple choice quiz composed of five questions relating to JavaScript which was created using Javascript, along with HTML and CSS. The user has 75 seconds to complete the entire quiz and ten seconds of time are deducted for every wrong answer. When an answer is selected, the user will be told if the answer they submitted was correct or wrong. 
+A simple multiple choice quiz composed of five questions relating to JavaScript which was created using Javascript, along with HTML and CSS. The user has 75 seconds to complete the entire quiz and ten seconds of time are deducted for every wrong answer. When an answer is selected, the user will be told if the answer they submitted was correct. 
+
+
 Purpose: To create a timed quiz in which the user may save their results to their local storage after completion. All of the saved scores can be viewed on the page which is storing highscores. 
 
 Deployed Git Hub URL: 
@@ -13,10 +15,24 @@ If link does not work, please click here: https://amnasyeda.github.io/code-quiz/
 
 
 
-Webpage Screenshot on standard internet browser:
+Webpage Interactive Video Screenshot on Standard Internet Browser:
 
 
-![alt text] (highscores.png)
+
+
+https://user-images.githubusercontent.com/81194686/118415052-1a62a280-b676-11eb-8820-574773b645a6.mov
+
+
+
+
+
+
+Screenshot of Highscores Page: 
+
+
+<img width="830" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118414877-25690300-b675-11eb-8bb3-d6103dc10cce.png">
+
+
 
 References:
 - [w3schools](https://www.w3schools.com/html/html_scripts.asp)
