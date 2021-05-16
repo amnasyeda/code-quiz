@@ -30,7 +30,8 @@ https://user-images.githubusercontent.com/81194686/118415052-1a62a280-b676-11eb-
 Screenshot of Highscores Page: 
 
 
-<img width="1131" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118415465-7d553900-b678-11eb-8a87-7bd3ba6b6d56.png">
+<img width="1061" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118417103-9e218c80-b680-11eb-8b4d-ee39341f198a.png">
+
 
 
 
