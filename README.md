@@ -2,7 +2,7 @@
 
 Description:
 
-A simple multiple choice quiz composed of five questions relating to JavaScript which was created using Javascript, along with HTML and CSS. The user has 75 seconds to complete the entire quiz and ten seconds of time are deducted for every wrong answer. When an answer is selected, the user will be told if the answer they submitted was correct or wrong. 
+A simple multiple choice quiz composed of five questions relating to JavaScript which was created using Javascript, along with HTML and CSS. The user has 75 seconds to complete the entire quiz and ten seconds of time are deducted for every wrong answer. When an answer is selected, the user will be told if the answer they submitted was correct. 
 
 
 Purpose: To create a timed quiz in which the user may save their results to their local storage after completion. All of the saved scores can be viewed on the page which is storing highscores. 
