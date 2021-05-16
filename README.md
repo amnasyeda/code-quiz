@@ -16,12 +16,16 @@ If link does not work, please click here: https://amnasyeda.github.io/code-quiz/
 Webpage Interactive Video Screenshot on Standard Internet Browser:
 
 
-![alt text] (highscores.png)
+
+https://user-images.githubusercontent.com/81194686/118414899-3e71b400-b675-11eb-9d1d-13b9c7841544.mov
+
+
 
 
 Screenshot of Highscores Page: 
 
 
+<img width="830" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118414877-25690300-b675-11eb-8bb3-d6103dc10cce.png">
 
 
 
