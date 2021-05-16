@@ -206,7 +206,7 @@ function setEndHeading() {
   if (totalTime === 0) {
     END_TITLE.textContent = "Sorry! time out!";
   } else {
-    END_TITLE.textContent = "Congrats! Your done!";
+    END_TITLE.textContent = "All done!";
   }
 }
 
