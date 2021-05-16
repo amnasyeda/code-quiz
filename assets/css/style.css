@@ -5,7 +5,7 @@ html {
 body {
   /* System fonts */
   font-family: Helvetica, sans-serif;
-  color: #202020;
+  color: black;
   
   box-sizing: border-box;
   margin: 0; 
@@ -28,7 +28,7 @@ h1 {
 
 /* Clicking buttons */
 a {
-  color: #88115b;
+  color: #b85edbe8;
   text-decoration: none;
 
   transition: color 0.2s ease-in-out;
@@ -37,7 +37,7 @@ a {
 a:hover, 
 a:focus, 
 a:active {
-  color: #88115b;
+  color:#b85edbe8;
 }
 
 button,
@@ -65,7 +65,7 @@ button,
 button:hover, 
 button:focus, 
 button:active{
-  background-color: #88115b;
+  background-color:#b85edbe8;
   color: white;
 }
 
@@ -119,7 +119,7 @@ main {
 }
 
 #time-remaining{
-  color: #88115b;
+  color:#b85edbe8;
 }
 
 #choices {
@@ -137,11 +137,11 @@ main {
 }
 
 #correct {
- color:  #53ac37;
+ color:green;
 }
 
 #wrong {
-  color: #E81648;
+  color:red;
 }
 
 /* Gray line */
@@ -158,7 +158,7 @@ main {
 
 #score {
   font-weight: bold;
-  color: #88115b;
+  color:#b85edbe8;
 }
 
 /* Form */
