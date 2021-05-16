@@ -20,6 +20,6 @@ Webpage Screenshot on standard internet browser:
 
 References:
 - [w3schools](https://www.w3schools.com/html/html_scripts.asp)
-- [madcap] (https://kb.madcapsoftware.com/Content/Misc/GEN1011Z_-_Loading_local_files_in_Google_Chrome.htm)
-- [educative] (https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript)
-- [CodeExplained] (https://www.codeexplained.org/2018/10/create-multiple-choice-quiz-using-javascript.html)
+- [madcap](https://kb.madcapsoftware.com/Content/Misc/GEN1011Z_-_Loading_local_files_in_Google_Chrome.htm)
+- [educative](https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript)
+- [CodeExplained](https://www.codeexplained.org/2018/10/create-multiple-choice-quiz-using-javascript.html)
