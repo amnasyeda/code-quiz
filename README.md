@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/81194686/118415052-1a62a280-b676-11eb-
 
 
 
-Screenshot of Highscores Page: 
+Screenshot of High Scores Page on Standard Internet Browser:
 
 
 <img width="1061" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118417103-9e218c80-b680-11eb-8b4d-ee39341f198a.png">
