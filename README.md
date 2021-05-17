@@ -15,7 +15,7 @@ If link does not work, please click here: https://amnasyeda.github.io/code-quiz/
 
 
 
-Webpage Interactive Video Screenshot on Standard Internet Browser:
+Interactive Video Screenshot on Standard Internet Browser:
 
 
 
