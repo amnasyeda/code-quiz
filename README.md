@@ -33,6 +33,14 @@ Screenshot of Highscores Page:
 <img width="1061" alt="highscores" src="https://user-images.githubusercontent.com/81194686/118417103-9e218c80-b680-11eb-8b4d-ee39341f198a.png">
 
 
+Mobile View of Application:
+
+
+
+
+https://user-images.githubusercontent.com/81194686/118417872-15a4eb00-b684-11eb-8174-24177570091a.mov
+
+
 
 
 
